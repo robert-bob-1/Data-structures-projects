@@ -1,0 +1,7 @@
+﻿  Lab5.cpp
+C:\Users\User\source\repos\Lab5\Lab5\Lab5.cpp(134,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Lab5\Lab5\Lab5.cpp(137,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Lab5\Lab5\Lab5.cpp(140,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Lab5\Lab5\Lab5.cpp(143,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\source\repos\Lab5\Lab5\Lab5.cpp(146,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lab5.vcxproj -> C:\Users\User\source\repos\Lab5\Debug\Lab5.exe

@@ -1,0 +1,5 @@
+﻿  Lab7TemaOS.cpp
+C:\Users\User\source\repos\Lab7TemaOS\Lab7TemaOS\Lab7TemaOS.cpp(25,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+C:\Users\User\source\repos\Lab7TemaOS\Lab7TemaOS\Lab7TemaOS.cpp(86): warning C4715: 'OSSelect': not all control paths return a value
+C:\Users\User\source\repos\Lab7TemaOS\Lab7TemaOS\Lab7TemaOS.cpp(105): warning C4715: 'OSSelect2': not all control paths return a value
+  Lab7TemaOS.vcxproj -> C:\Users\User\source\repos\Lab7TemaOS\Debug\Lab7TemaOS.exe

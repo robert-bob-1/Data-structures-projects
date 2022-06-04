@@ -1,0 +1,11 @@
+﻿  Lab8_1.cpp
+C:\Users\User\source\repos\Lab8_1\Lab8_1\Lab8_1.cpp(11,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+C:\Users\User\source\repos\Lab8_1\Lab8_1\Lab8_1.cpp(16,2): warning C4091: 'typedef ': ignored on left of 'Edge' when no variable is declared
+C:\Users\User\source\repos\Lab8_1\Lab8_1\Lab8_1.cpp(23,2): warning C4091: 'typedef ': ignored on left of 'Graph' when no variable is declared
+C:\Users\User\source\repos\Lab8_1\Lab8_1\Lab8_1.cpp(66,9): warning C4101: 'key': unreferenced local variable
+  Generating code
+  288 of 537 functions (53.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab8_1.vcxproj -> C:\Users\User\source\repos\Lab8_1\Release\Lab8_1.exe

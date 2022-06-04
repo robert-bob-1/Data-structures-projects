@@ -1,0 +1,4 @@
+﻿  bfs.cpp
+C:\Users\User\source\repos\Lab9\Lab9\bfs.cpp(112,2): warning C4091: 'typedef ': ignored on left of 'QNode' when no variable is declared
+C:\Users\User\source\repos\Lab9\Lab9\bfs.cpp(116,2): warning C4091: 'typedef ': ignored on left of 'Queue' when no variable is declared
+  Lab9.vcxproj -> C:\Users\User\source\repos\Lab9\Debug\Lab9.exe

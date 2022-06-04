@@ -1,0 +1,5 @@
+﻿  Lab8_1.cpp
+C:\Users\User\source\repos\Lab8_1\Lab8_1\Lab8_1.cpp(12,2): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+C:\Users\User\source\repos\Lab8_1\Lab8_1\Lab8_1.cpp(17,2): warning C4091: 'typedef ': ignored on left of 'Edge' when no variable is declared
+C:\Users\User\source\repos\Lab8_1\Lab8_1\Lab8_1.cpp(24,2): warning C4091: 'typedef ': ignored on left of 'Graph' when no variable is declared
+  Lab8_1.vcxproj -> C:\Users\User\source\repos\Lab8_1\Debug\Lab8_1.exe
